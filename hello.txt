@@ -1,0 +1,4 @@
+TWITTER_API='12312321312afsdf'
+
+#buat nyimpen yang rahasia2
+kalo butuh tinggal ambil variablenya, simpen pake csv aja biar tinggal read csv
